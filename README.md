@@ -1,0 +1,4 @@
+- 👋Hi, I'm @dorffman
+- 🌱 I am currently learning Python coding
+- 💞 ️ I want to learn how to create apps
+- 📫 How to contact me - dorffman@yandex.ru
